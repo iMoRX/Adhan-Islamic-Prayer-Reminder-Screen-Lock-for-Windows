@@ -1,0 +1,12 @@
+# PyInstaller
+*.spec
+dist/
+build/
+__pycache__/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini

@@ -1,0 +1,35 @@
+{
+  "_comment": "Prayer Reminder Configuration File",
+  "_note": "Edit this file to change your location, method, or timing.",
+
+  "location": {
+    "city": "Najran",
+    "country": "Saudi Arabia",
+    "latitude": 17.4924,
+    "longitude": 44.1277,
+    "timezone_offset": 3
+  },
+
+  "calculation": {
+    "method": "UmmAlQura",
+    "asr_method": "Standard",
+    "_methods_available": [
+      "MWL (Muslim World League)",
+      "ISNA (Islamic Society of North America)",
+      "Egypt (Egyptian General Authority)",
+      "Makkah",
+      "UmmAlQura",
+      "Karachi (University of Islamic Sciences)"
+    ]
+  },
+
+  "timing": {
+    "warning_minutes_before": 5,
+    "lock_duration_minutes": 10
+  },
+
+  "ui": {
+    "theme_color": "#c9a84c",
+    "language": "en"
+  }
+}
