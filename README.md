@@ -1,4 +1,6 @@
-# 🕌 Prayer Reminder — Full Documentation
+_Built with the assistance of __Claude__ by Anthropic._
+
+# 🕌 Adhan - Prayer Reminder — Full Documentation
 
 A lightweight Windows background application that:
 - Runs silently in the **system tray**
